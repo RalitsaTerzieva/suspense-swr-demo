@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react-loading-skeleton": "^3.5.0",
+    "styled-components": "^6.1.13",
+    "swr": "^2.2.5"
+  }
+}
