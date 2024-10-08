@@ -1,3 +1,5 @@
+import React from 'react'
+
 import { SWRConfig } from 'swr';
 import PokeContainer from './components/Pokemon/PokeContainer';
 import fetcher from './components/Pokemon/fetcher';
