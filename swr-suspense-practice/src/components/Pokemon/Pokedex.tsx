@@ -1,5 +1,4 @@
 import { FC, Suspense } from 'react'
-import React from 'react'
 import useSWR from 'swr'
 import LoadingSkeleton from './LoadingSkeleton';
 import Pokemon from './Pokemon'

@@ -1,6 +1,4 @@
-import React from 'react'
 import { FC, Suspense } from 'react'
-
 import Pokedex from './Pokedex'
 
 const PokeContainer: FC = () => {

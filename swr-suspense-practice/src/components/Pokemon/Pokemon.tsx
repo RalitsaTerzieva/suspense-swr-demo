@@ -1,4 +1,3 @@
-import React from 'react'
 import { FC } from 'react'
 import useSWR from 'swr'
 import { StyledCard, StyledTypes, StyledType, StyledHeader } from './Pokemon.styled';
